@@ -174,7 +174,7 @@ export const Bio = {
       member: [
         {
           name: "Hemant Pachaury",
-          img: "http://localhost:3000/static/media/HeroImage1.c1ed806dd0007776366d.jpeg",
+          img: "C:\Portfolio.ReactJS\portfolio\public\HeroImage1.jpeg",
           linkedin: "https://www.linkedin.com/in/hemantpachaury8755855116/",
           github: "https://github.com/HemantPachaury",
         },
@@ -197,7 +197,7 @@ export const Bio = {
       member: [
         {
           name: "Hemant Pachaury",
-          img: "http://localhost:3000/static/media/HeroImage1.c1ed806dd0007776366d.jpeg",
+          img: "C:\Portfolio.ReactJS\portfolio\public\HeroImage1.jpeg",
           linkedin: "https://www.linkedin.com/in/hemantpachaury8755855116/",
           github: "https://github.com/HemantPachaury",
         },
